@@ -9,5 +9,7 @@ Se faz necessário a aplicação de técnicas estatísticas para se obter maior 
 
 Programar em MQL5 possibilita a realização de trades 100% automáticos ou a criação de ferramentas que irão auxiliar em alguma etapa das operações (como por exemplo um screener).
 
+
 __
+
 ¹ MQL5 é uma linguagem de programação integrada projetada para o desenvolvimento de robôs de negociação, indicadores técnicos, scripts e bibliotecas de funções dentro do programa MetaTrader5 (MT5).
