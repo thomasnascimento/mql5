@@ -1,5 +1,7 @@
 //+------------------------------------------------------------------+
 //|                                           tns_basic_ea_v1.00.mq5 |
+//|                                                  Catalyst Invest |
+//|                       https://www.instagram.com/catalyst.invest/ |
 //|                                       Thomas Nascimento da Silva |
 //|                       https://www.instagram.com/_thomnascimento/ |
 //+------------------------------------------------------------------+
